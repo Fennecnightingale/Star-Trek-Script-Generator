@@ -41,7 +41,6 @@ checkpoint_PIC_D.tar
 models/
 samples/a
 samples/b
-samples/c
 main/py/models
 main/py/checkpoint
 
