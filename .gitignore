@@ -39,7 +39,9 @@ checkpoint_PIC_B.tar
 checkpoint_PIC_C.tar
 checkpoint_PIC_D.tar
 models/
-samples/
+samples/a
+samples/b
+samples/c
 main/py/models
 main/py/checkpoint
 
