@@ -41,7 +41,8 @@ checkpoint_PIC_D.tar
 models/
 samples/
 trekgenerator/
-main/
+main/py/models
+main/py/checkpoint
 
 
 # Byte-compiled / optimized / DLL files

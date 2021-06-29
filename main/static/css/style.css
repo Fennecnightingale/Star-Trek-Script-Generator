@@ -1,0 +1,105 @@
+@font-face { font-family: STARTREK; src: url('../fonts/Startrekfuture-EK6e.TTF'); } 
+@font-face { font-family: ST; src: url('../fonts/FinalFrontierOldStyle-8Pg.ttf'); } 
+
+/* width */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: rgb(247, 222, 140); 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #ad721a; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #cc6666; 
+}
+
+h1, h2 {
+    font-family: STARTREK;
+    text-align: center;
+    margin: 0;
+    color: rgb(247, 222, 140);
+}
+h1 {
+    font-size: 120px;
+    margin: 45px 0 -30px 0;
+}
+h2 {
+    font-size: 60px;
+}
+.wrapper {
+    max-width: 700px;
+    max-height: 575px;
+    overflow: hidden;
+    margin: auto;
+}
+#loading, #display {
+    margin-top: 75px;
+    margin-left: 85px;
+    text-align: center;
+    overflow-y:scroll;
+    width: 525px;
+    height: 575px;
+    color:rgb(247, 222, 140);
+    font-size: 30px;
+    font-family: ST;
+
+}
+table {
+    font-family: ST;
+    width: 100%;
+    color :#fad9b8;
+    background-color: black;
+}
+td {
+    padding: 5px;
+}
+input {
+    width: 100%;
+    font-family: ST;
+    font-size: 20px;
+    color: #fad9b8;
+    background-color: #946694;
+}
+select {
+    width: 100%;
+    font-family: ST;
+    font-size: 20px;
+    background-color: #ad721a;
+    color:#fad9b8;
+    text-align: center;
+}
+#submit-button {
+    padding: 16px;
+    margin: 3px 0;
+    background-color: #cc6666;
+}
+button {
+    width: 100%;
+    padding: 9px;
+    background-color: #7878c7;
+    border: none;
+    border-radius: 16px;
+}
+label{
+    display: block;
+    font-size: 25px;
+    color: #ffcc99;
+    text-align: center;
+    font-family: ST;
+}
+
+body{
+    background-image: url("../images/lcars.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}

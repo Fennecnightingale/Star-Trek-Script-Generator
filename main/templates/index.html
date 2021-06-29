@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ST Script Generator</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{% static 'js/script.js' %}"></script>
+    <script> 
+        let csrf = "{{ csrf_token }}"
+    </script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div id = 'start'>
+        <header>
+            <h1>STAR TREK</h1>
+            <h2>THE SCRIPT GENERATION</h2>
+        </header>
+        <form action="">
+            <button id="submit-button"><img src="{% static 'images/random.png' %}" alt="random script."></button>
+            <button id='options-button'><img src="{% static 'images/byo.png' %}" alt="build your own!"></button>
+            <div id="options">
+                <!-- <h3>Entirely optional, any left blank will be randomized</h3> -->
+                <table>
+                    <tr>
+                        <td>
+                            <label for="names">Characters, seperated by commas.</label>
+                            <input type="text" id="names" name="names" value='"Q", Picard, Kirk'>
+                        </td>
+                        <td>
+                            <label for="locations">Locations, seperated by commas.</label>
+                            <input type="text" id="locations" name="locations" value="Sick Bay, Bridge, Engineering">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="scene">Other scene settings.</label>
+                            <input type="text" id="scene" name="scene" value="There is an unknown vessel approaching off the port bow.">
+                        </td>
+                        <td>
+                            <label for="series">Series.</label>
+                            <select name="series" id="series">
+                                <option default value="ALL">ALL TREK</option>
+                                <option value="OLD">OLD TREK (PRE-ENT)</option>
+                                <option value="NEW">NEW TREK (ENT-CURRENT)</option>
+                                <option value="TOS">ORIGINAL/ANIMATED SERIES</option>
+                                <option value="TNG">NEXT GENERATION</option>
+                                <option value="DS9">DEEP SPACE 9</option>
+                                <option value="VOY">VOYAGER</option>
+                                <option value="ENT">ENTERPRISE</option>
+                                <option value="DIS">DISCOVERY</option>
+                                <option value="PIC">PICARD</option>
+                                <option value="LD">LOWER DECKS</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+                <label for="length">Length to generate.</label>
+                <select name="length" id="length">
+                    <option default value="SCENE">SCENE</option>
+                    <option value="SHORT">SHORTS</option>
+                    <option value="FULL">FULL SCRIPT</option>
+                </select>
+            </div>            
+        </form> 
+        </div>
+        <div id='loading'>
+            <marquee direction="up" scrollamount="3" behavior="alternate" style="width: 300px; height: 300px; font-size: 40px;font-family: ST; color:#fad9b8;text-align: center;"> 
+            Loading your script, this may take a few minutes. Please do not exit the page. 
+        </marquee>
+        </div>
+        <div id='display'>
+        </div>
+    </div>
+</body>
+
