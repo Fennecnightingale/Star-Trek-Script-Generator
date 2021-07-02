@@ -42,6 +42,11 @@ models/
 samples/a
 main/py/models
 main/py/checkpoint
+.vscode
+env/
+venv/
+.vscode/
+db.sqlite3
 
 
 # Byte-compiled / optimized / DLL files
