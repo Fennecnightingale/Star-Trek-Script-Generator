@@ -6,9 +6,6 @@ dependencies:
   - tensorflow-gpu==1.15.0
   - django
   - pytorch
-  - cpuonly
   - torchvision
-  - torchaudio
-  - jupyterlab
   - python=3.7.0
 prefix: C:\ProgramData\anaconda3\envs\trek-env
