@@ -119,8 +119,6 @@ dependencies:
   - prompt-toolkit=3.0.18
   - protobuf=3.17.2
   - psycopg2=2.8.6
-  - pyasn1=0.4.8
-  - pyasn1-modules=0.2.7
   - pycparser=2.20
   - pygments=2.9.0
   - pyjwt=2.1.0
