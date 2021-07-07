@@ -1,0 +1,790 @@
+PART ONE 
+SARU In the past three weeks, Discovery has evolved even more than we could
+have imagined.
+Her battle scars have been healed.
+Internal systems updated.
+Programmable matter has been integrated with our pre-Burn technology.
+Even her nacelles are now detached, improving maneuverability and
+enabling us to be more efficient in flight.
+Her retrofit is nearly complete.
+It is quite extraordinary, the journey we have had.
+We are grateful to have assisted Federation planets in the deepest
+regions of the galaxy, and equally grateful to be home.
+We are now ready to be of service here, in any way we can be.
+VN Welcome back to the fleet, Discovery.
+And your crew?
+SAR Adapting and retraining as needed.
+Commander Burnham is overseeing the process.
+VN Thank you, Captain Saru.
+Okay. Let's get to it.
+Reilling VII needs additional shields.
+They're dealing with solar flares. Kardashev?
+KAR We'll bring them some shade, sir, if they can last a week.
+VN They can.
+Kaijur XII needs replicator replacement technology.
+They've got a severe food shortage. Captain Rahma?
+That'll be your assignment.
+RA Aye, sir.
+VN Captain Bandra. Le Guin will take the supply run to Na'Seth.
+We'll see you in two months.
+BAN Yes, Admiral.
+SAR With respect, Admiral, given severely limited warp travel, if time is
+of the essence...
+VN No question.
+I could use ten of you right now.
+But as my only rapid responder, I need you here.
+L'TEIS Rapid responder?
+Sir.
+VN Discovery has an experimental advanced-drive system that enables us to
+respond instantaneously anywhere in the galaxy.
+Word of this critical asset will not leave this room until I say so.
+Now, Argeth is on yellow alert.
+Our intel says that the Emerald Chain might be making another move in
+the next 12 hours.
+SAR The Andorian/Orion syndicate?
+VANCE In this part of the quadrant, yes.
+Osyraa and the Chain have been pushing hard lately.
+I don't know what they're after on Argeth, but they're damn sure not
+gonna get it.
+If things heat up, I'm gonna need you to jump, Captain.
+SAR We will be ready, Admiral.
+VN Dismissed.
+TLY Are we supposed to get new holo-PADDs, too?
+WL You already have them.
+( Gasps softly )
+RHYS Cool.
+TLY Okay. This is my new favorite thing.
+WL Your new badges also function as tricorders.
+And communicators and personal transporters, but we'll get to those
+later.
+There are also upgrades to your consoles.
+Check it out.
+TLY Doesn't seem that different.
+WILLA Our team kept the interface similar for ease of transition, but once
+you engage...
+OWO Whoa. What just happened?
+WL That's the retrofitted programmable matter.
+It reads your bio-signs.
+DET Do we really need all of this?
+BRY Hell yeah, we do.
+WILLA It's adaptive.
+Learns and adjusts to your reflexes to create an interface style
+unique to you.
+OWO Wow.
+Feels smooth... and cool.
+Like glass.
+LINUS Whoops. Didn't expect to...
+This isn't the mess hall. ( Clears throat )
+Uh, bye.
+( Laughter )
+NIL Apparently, he hasn't adapted yet.
+( Alert chimes )
+BRY Uh, Lieutenant Nilsson, we are being hailed by a vessel outside of the
+Federation's distortion field.
+WILLA No one gets here unless they know where they're going.
+On screen.
+( Static crackling )
+( Purring )
+( Meows )
+TLY Grudge?
+BOOK Hey, Michael.
+I'm recording this message in case I can't tell you in person.
+I was on my way to the Bajoran exchange, when this guy sitting next to
+me started talking about a black box.
+And I think his black box is one of the ones you're looking for.
+It's on Hunhau. Emerald Chain territory.
+I'm going to do some looking around.
+If things don't go well, I'll set the ship to bring Grudge to you if
+I'm not back on board in 24 hours.
+Now, despite her glacial emotional process, her initial reluctance
+towards you is melting away.
+I'll come find you two.
+Okay? I won't be long.
+BRN This was three weeks ago.
+SAR What would the black box tell us about the Burn?
+BRN Since it has a record of any ship's last moments, every vessel
+destroyed by the Burn should have stopped recording at the same
+microsecond, but the two that I found in my year here didn't.
+If Book found a third one out there, and it shows the same variance,
+that means the Burn didn't happen all at once.
+SAR Suggesting what?
+BRN Suggesting the Burn had a point of origin, and we can triangulate the
+data from the boxes to locate it.
+We have got to get to Hunhau.
+SAR I'm so sorry, Michael, but at the moment, we cannot.
+BRN Why?
+SAR Well, the admiral has ordered Discovery to be ready to jump to Argeth
+within the next 12 hours.
+BRN Ah. It won't take me nearly that long.
+SAR Commander.
+To be clear, the situation there could heat up any time in the next 12
+hours.
+BRN Captain, the Federation cannot stabilize while the cause of the Burn
+remains a question.
+And there's a man's life at stake.
+SAR There are many lives.
+Today, I saw how vulnerable the Federation has become.
+The admiral would not be convinced by a cat in a ship.
+I understand this will be difficult, but please resume your duties and
+prepare the crew for a possible jump to Argeth.
+BRN Yes, sir.
+( Door whooshes open )
+I can't do nothing.
+You're the only person on this ship who'd say yes to going on an
+unsanctioned mission.
+If I'm right about this box, then I'll be bringing back proof about
+what caused the Burn.
+GRG You're far too smart not to realize you're dropping Saru in the fire.
+He's trying to prove his legitimacy, and his Number One is running all
+around the galaxy, disobeying direct orders.
+Which has a very familiar ring.
+BRN I'd rather regret something I did than something I didn't.
+GRG Now we're getting somewhere.
+BRN Are you in or out?
+Georgiou?
+GRG You had me at "unsanctioned mission".
+( Exhales )
+Hunhau is an M-class planet.
+Sparsely populated. Looks like they mainly salvage ships.
+Just so I'm clear, what is our primary objective?
+BRN The black box.
+And Book.
+GRG So, what does this cat-loving friend have that made you fall for him
+like a two-year-old on the edge of a well?
+BRN Excuse me?
+GRG The Tyler thing ended in disaster... surprise, surprise... so I get
+why you wouldn't want to have feelings for the blob whisperer.
+BRN I don't have feelings for the blob whisperer.
+And trance worms aren't blobs.
+GRG I was referring to the cat.
+And you seem to know this ship pretty intimately.
+BRN I spent a lot of time here. I didn't love here or anything.
+I had my own ship.
+What?
+GRG You said "love here".
+BRN I said "live here".
+GRG "Love here".
+BRN You're not qualified to judge these things.
+Your emotional spectrum runs from cranky to homicidal.
+( Echoes ): And why are you bringing up Tyler anyway?
+GRG San!
+San!
+BURNHAM It's still raising my heart rate.
+I don't even need this caffeine right now.
+Espresso.
+( Distorted ) Do you want an espresso?
+GRG No.
+BRN Philippa?
+What is going on?
+I know something's happening with you.
+( Exhales )
+( Alert chiming )
+GEORGIOU Looks like a war zone.
+BURNHAM It was caused by the Burn.
+I've seen these ship graveyards all over.
+The only populated area is heavily shielded.
+I can't get a lock on Book's life sign.
+We're being hailed.
+TLR  This planet's a private salvage yard.
+BRN Why don't you get our gear?
+TLR What are you doing here?
+GRG I must be here to buy some salvage, meat sack.
+TLR  All buyers go to the local Bajoran exchange.
+GRG I'm not interested in getting ripped off by an avatar.
+You insult me.
+My servant and I are transporting down.
+TLR Do that, and my auto-defense systems will take you out.
+I decide who's authorized to land, and when.
+GRG You don't look smart enough to run this dump.
+How soon before your boss finds out I have real dilithium on board I
+am willing to part with, and you're making me hover like a peasant?
+TLR  Hang on.
+Real dilithium?
+GRG What did I just say?
+Imbecile. You want to let this prize go?
+You don't think your boss is watching you watching me?
+I am losing my patience.
+TLR Well...
+GRG Form a sentence!
+TLR  All right... you're cleared to land.
+But I've got my eyes on you.
+GRG I don't care about your eyes, unless they were dangling from my belt.
+BRN Really?
+GRG He is a bully.
+They crumble like a cookie when they meet a bigger one.
+What is that?
+BRN Cat collar.
+To find Grudge, if she ever got lost.
+GRG That cat can't get lost.
+It's got its own gravitational pull.
+BRN No, Book never went anywhere without the receiver.
+So I reverse-engineered it.
+What he used to find her will now find him.
+GRG The things we do for love.
+BRN Let's just go find what we're here to find before I strangle you.
+PART TWO 
+( Grudge meows )
+TLY Grudge. Hello.
+( Meows )
+On my bed?
+Hey there, partner.
+Pick you up.
+Um, just, full disclosure, I'm not a cat person.
+So you're gonna have to go back in the box, bud.
+( Mewls )
+Computer, locate Burnham.
+COMPUTER Commander Burnham is not on board.
+TLY Did you eat her?
+Computer, scan shuttle bay for Cleveland Booker's ship.
+COMP Unable to locate.
+TLY Come here, kitty.
+( Mewling )
+Come...
+No, no, no, no, no, no.
+No-no-no-no, there's...
+( Laughing )
+You got to come here, bud.
+( Purring )
+You got to go back in the box.
+( Sighs )
+I don't like you.
+BURNHAM Book said he already found a black box, but if you see any others
+while we're down there, grab them.
+GEORGIOU Out from under the idiot's nose?
+Child's play.
+TOLOR No merchandise until I get your dilithium.
+And you don't get your weapons back until you leave.
+GRG If I wanted to kill you, I wouldn't need a weapon.
+And from the looks of this place, they'd name a holiday after me.
+So who put you in charge?
+TLR  I'm Osyraa's nephew.
+This is her territory.
+What makes you think...
+GRG What makes you think?
+Oh, don't tell me you have actual brain matter, or whatever nephews
+have.
+BURNHAM Where do you get your help from?
+All these people. Beta VI?
+Marin-Jira?
+TLR  They owe Osyraa.
+They work for us forever.
+It's pretty simple.
+GRG I'd love to meet this Osyraa.
+She sounds like my kind of girl.
+We're going over there.
+BRN She's looking for self-sealing stem bolts from the late 24th century.
+TLR  Down there.
+Hang a right at the entrance.
+Next to the plasma coils.
+You should be able to find what you're looking for.
+GEORGIOU I'm particularly interested in any pre-2400 items.
+TLR  These ships are old as dirt.
+There's plenty of good scrap in 'em.
+Here.
+GRG Please. Half of those parts didn't even exist in that era.
+Now, this has all its original parts.
+930 years old, and it still works.
+Don't touch.
+( Meow sound over device )
+TOLOR Move it.
+BRN Captain, there's more over there.
+GRG Let's go.
+MAN ( OVER P.A. ) Attention, Sector Six arriving workers. Report immediately to Melting
+Forge Three for mandatory security protocols and implantation.
+RYN I'm sorry, I have to do this.
+Try to relax, it'll only hurt for a minute.
+MAN Get off me, traitor.
+LAI Ah.
+( Clang )
+BK Hey, come on, watch that elbow, Lai.
+LAI I'm good.
+BK Not since that regulator tried to separate you from it.
+I got this, okay?
+RYN Hey, Lai, I found some Tala bark.
+I thought it might help with your elbow.
+LAI Anything from you is nothing I need.
+BK Ryn, let him go.
+RYN They think I want to be this guy.
+BK They know Osyraa will kill you slow if you say no.
+Just try and not take it personal.
+We're all just trying to...
+RYN Who is that?
+BK Um... friend. Just keep your eyes down.
+SEC Hey!
+Drop it!
+LAI What?
+Show me.
+BK Hey, come on, take it easy.
+TOLOR You! Shut up.
+Are you stealing from me?
+LAI It's just a water ration.
+TLR  Just a water ration.
+We work hard to bring you all the water you need.
+I guess that's not enough.
+BK Tolor, please...
+( Grunts )
+TOLOR Open the door.
+We haven't tested the new system updates on the perimeter pylons.
+Maybe you'll go free, or you might not.
+There's only one way to find out.
+Three...
+( Hand cannon fires )
+LAI Please don't.
+TLR  Two...
+( Cannon fires )
+One!
+Faster.
+( Screaming )
+Faster!
+I guess it does work.
+Get back to work.
+GRAY I don't get it.
+Why are you shutting yourself away in this goldfish bowl?
+ADIRA I'm working.
+GRY There's a basketball court out there, and bocce.
+And fencing.
+ADI Enticing.
+GRY Adira, we're on this amazing moving world, and I've only seen where
+you sleep, work and eat.
+ADI And these are all vital functions.
+GRY Could we make a new memory, please?
+STAMETS Who moved the intermix pods?
+Ergonomics don't make any sense.
+ADI That's way above my pay grade.
+Talk to the admiral.
+STA Yes, well, the admiral expects us to jump to Argeth at any time.
+This place is in chaos.
+Nothing's where it's supposed to be.
+ADI Oh, these crazy kids and their chaos.
+STA Linus, don't do that.
+LINUS Sorry. New badge. Hmm?
+ADI The spore drive's new and improved.
+I redesigned it so you won't have to use those shunts.
+STA Well, it's a lot more comfortable.
+A little gooey.
+ADI Nanogel.
+It acts as a quantum transducer.
+Slips right off. No residue.
+STA Thank you.
+GEORGIOU His death was efficient.
+TOLOR Thank you. And now you know what happens when you break the rules.
+GEORGIOU So I saw.
+A little messy, but I assume that's the point.
+I want to buy the tech for that fencing system.
+TLR  Proprietary. Owned by Osyraa.
+Not for sale.
+GRG How disappointing.
+How do you control the perimeter fence?
+From your office?
+TLR  I can't say.
+GRG The controls are in your pocket.
+I know because you keep touching them.
+Servant, we're shopping.
+Uh, I want those magnetic interlocks and two plasma conduits.
+BRN Ma'am, you also wanted warp coils to melt down for cortenum.
+GRG Mm-hmm.
+BRN Buy me some time.
+GRG Okay, go.
+What kind of rubbish do you have down here?
+TOLOR Well, we've got some tritanium power coils...
+BRN Bring me more.
+BK At the back shelves.
+( Burnham sighs )
+WOMAN ( OVER P.A. ) 45 minutes to shift change.
+BK ( Whispering ) You weren't supposed to come.
+BRN The hell I wasn't. God.
+And you sent a passive-aggressive holo, so...
+BK What? I sent a passive-passive holo, which said, "I'm coming here". It
+didn't say, "Come here, too".
+BRN Oh, I didn't need to. That was the aggressive part.
+I got to get you out of here.
+BK You can't. I'll get myself out.
+If I cross that perimeter, what happened to that guy who ran happens
+to me.
+BRN I know.
+BK I got the black box.
+Okay?
+It's in the wall of my quarters.
+You just need to get it and go.
+BRN I'm not leaving you.
+BK You see that clock?
+43 minutes until the shift change.
+Then I'm in one of those ships up top for a week.
+There's no time.
+BRN 43 minutes is plenty of time.
+BK Osyraa breaks people. Understand?
+Ryn, the Andorian, he was born into the Emerald Chain.
+He tried to rally the people against them.
+People were beginning to listen.
+So she hacked off his antennae and made him the guy that plants this
+thing.
+Now he's a pariah.
+BURNHAM We are gonna get you and everybody out.
+And I have an idea.
+( Whispering ) Remember Iso VII?
+TLR  What's taking them so long?
+GRG I pay her to be thorough.
+BRN Found what we were looking for.
+They were buried pretty deep.
+Uh, I'll need 40 minutes to properly clean and inspect them.
+GRG 40 minutes? Huh.
+That's a lifetime.
+( Loud crash )
+TOLOR What the hell?!
+Get a drone to stay on them.
+What do you idiots think you're doing?
+PART THREE 
+TLY Let's do a pre-check on oxygen and nitrogen levels in main bay.
+ENSIGN Uh, what about the...
+TLY New stabilization system?
+Just about to get to that.
+So, if it overloads when Commander Stamets engages, just lock it down
+and reroute to containment.
+Got it?
+ENSIGN Okay.
+SAR Ensign Tilly.
+TLY Ah... Sir.
+Uh, sorry. I was just re-running some tests with the new spore drive
+interface, in case we need to jump quickly.
+SAR I appreciate your diligence.
+Might I speak with you privately?
+TLY It's about Michael, right?
+SAR I was hoping against all logic you could explain her absence.
+TLY ( Chuckles ) Sorry, no. Uh...
+Came into my room and Grudge was there, and...
+( Sighs )
+Sure she has a reason for keeping us both in the dark.
+SAR Commander Burnham left to pursue a mission of her own against my
+direct orders.
+TLY Oh, shit. Sh... shit, shit.
+Sorry.
+SAR My sentiments exactly.
+I will be honest, Ensign.
+I have not felt this mistrusting of her since we served on the
+Shenzhou.
+I assumed, after all we have endured together, that this feeling would
+never return.
+TLY Sir, you know Michael is one of the people that I love m-most in this
+world, but she made a choice, and now because of that, you don't have
+one.
+You have to tell the admiral.
+SAR I expected you to try talking me out of it.
+TLY I know. Me, too, but...
+Discovery still has a lot to prove, and if Admiral Vance finds out and
+you're not the one who told him?
+The entire crew will get painted with the same brush.
+SAR That is astute, Ensign.
+TLY I might've done the same thing in her shoes.
+Just for the record.
+SAR For the record, I do not believe you would have.
+BRN I think I see tritanium over there.
+GEORGIOU Good. Maybe I'll keep you around, servant.
+BRN How long before they notice?
+( Alarm blaring )
+SEC Get back to work.
+BK You know what to do?
+BURNHAM How many weapons can you build from this?
+GRG We'll have time for one.
+There we go.
+One blast, then we'll have the perimeter controls.
+I love me.
+BRN ( Sighs ) Let's go.
+REGULATOR Freeze!
+Hands in the air! Hands in the air!
+RYN I told as many of the others as I could.
+I don't know if they believed me, but I tried.
+BK You did good, Ryn.
+RYN Here.
+I got it. The black box.
+Who are these friends of yours?
+BK Very handy, excellent friends.
+RYN Okay.
+BK Five minutes till shit gets real.
+RYN What if I can't do this?
+BK You got those for standing up to the Chain.
+You got this.
+All you got to do is, uh, run, and you and I, my friend, are getting
+out of here.
+All of us, on a transport ship.
+SARU There is no doubt Commander Burnham made a serious error in judgment.
+But you can be assured that the absence of our Number One will not
+impact our ability to respond to any potential conflict on Argeth.
+WILLA The Cuyahoga's back.
+VANCE Well, make sure they clear the ship before doing the baryon sweep.
+I'm glad to hear you can cope without your Number One, Captain,
+because we are having trouble keeping our head above water with oldfashioned diplomacy.
+Emerald Chain has pulled out of talks.
+Stand by to jump on my orders.
+SAR We will begin preparations, Admiral.
+VN Dismissed.
+GEORGIOU You think you're two steps ahead of us, but you're not.
+I don't know why you're even bothering.
+I keep telling you, you're too stupid.
+TLR  You didn't come here for salvage.
+( Grunts )
+GRG ( Chuckles ) At this point, I'm almost proud it occurred to you.
+SEARCHING REGULATOR Sir, I found what you're looking for. 30 units of pure dilithium.
+( Tolor chuckles )
+TLR  Not as smart as you thought.
+Now who's the meat sack?
+BRN That would be a bad idea, to fire that weapon.
+If Osyraa sniffed out what we had on our ship and wanted to know our
+story, she would kill you for killing us.
+( Alarm blaring )
+MAN ( OVER P.A. ) Attention, Sector Five worker, report for shift change.
+BK Let's go!
+( Workers shouting )
+BK Stay with me! Let's go!
+Get to the ship!
+WOMAN ( OVER P.A. ) Unauthorized perimeter door accessed.
+( Screaming )
+BK Go! Go!
+( Grunting )
+RYN The perimeter fence is still on.
+They'll come through.
+( Grunting )
+GEORGIOU San!
+BURNHAM Get the controller!
+Get the controller!
+RYN We can't stay here.
+( Tolor and Burnham grunting )
+( Wheezes )
+GEORGIOU Got it.
+You got to be kidding me.
+I was just starting to enjoy myself.
+BK Let's go.
+Let's go, go, go! The perimeter's down!
+Come on! This way!
+On me. Let's move!
+RYN We can make it.
+BK Come on!
+( Panting )
+Get on the transport ship!
+Come on!
+Go, go, go, go, go, go, go, go!
+Go on! Go on!
+Come on!
+Come on!
+( Indistinct shouting )
+Come on!
+Bring him down!
+RYN Book!
+BK Come on. To the ship.
+( Screams )
+Oh, no, no, no, no.
+( Screaming )
+I got you. I got you.
+Hey, stay with me.
+Hey. Hey, hey.
+I got you. I got you.
+Stay with me. Okay?
+( Shouts )
+Ryn, Ryn.
+Hey, hey. Hey.
+Hey, look at me.
+RYN Get out of here.
+BK Come on, come on. Stay with me.
+( Indistinct shouting )
+( Whoops )
+( Grunts )
+Come on.
+( Book shouts indistinctly )
+Michael!
+Michael!
+BRN I got you.
+( Ryn gasping )
+BK Stay with me. Okay?
+Stay with me.
+GEORGIOU Salvage this, you son of a bitch.
+(GEORGIOU crashes ship into Orion Slave Camp)
+PART FOUR
+BRN I've alerted sickbay on Discovery.
+BOOK The black box I promised.
+I hope it helps you find what you're looking for.
+BRN ( Quietly ) Thank you.
+So... we are going to talk about what happened back there.
+You could have gotten us killed.
+GRG Don't you think I know that?
+BRN Then tell me what's going on.
+You don't know, do you?
+Philippa, how long has this been happening?
+GRG A couple of weeks.
+And it's getting more severe.
+BRN You could have come to me.
+I could have helped.
+GRG Until I understand what's going on, there's nothing to ask for.
+BRN That's not true. Discovery is filled with people...
+GRG You will tell no one.
+BRN This isn't the Terran universe.
+GRG ( Scoffs )
+BRN A vulnerability is not a death sentence.
+You're not alone.
+We'll get through this.
+Trust me.
+GRG I remember another Michael Burnham telling me to trust her.
+She looked just as sincere as you do now.
+And we know how that ended.
+( Indistinct chatter )
+STA You're talking to yourself.
+I don't think you're crazy, for what it's worth.
+But I'm... curious.
+ADI You won't believe me.
+STA You have no idea what goes on around here.
+( Quiet laugh )
+Okay.
+ADI Let me just say there's no head injuries.
+STA Okay.
+ADI I was talking to my boyfriend.
+He's Trill.
+I got my symbiont from him.
+When he died.
+STA Um... my understanding of Trill is that... you're supposed to be
+carrying his memories, not...
+ADI His soul?
+Yeah, I-I don't know how it happened this way, either.
+Maybe because we were so close.
+STA Well, I'm, um... filling in the blanks a bit, but it sounds like
+you're holding onto someone you love.
+And I did that with Hugh while he was gone.
+Before he died, I thought of life and death as this linear thing with
+a distinct beginning and end.
+And now I know life will always surprise me.
+So... if you tell me that he's still with you... what's his name?
+ADI Gray.
+STA Gray.
+I believe you.
+ADI He... says I need to make friends.
+But I don't know.
+STA Well, he realizes you have a lot to give.
+ADI What, you think I have something to give?
+STA Are you kidding?
+You can accomplish things none of us can even imagine.
+Including me, and I've imagined more than most.
+ADI You're kind of, like, the bomb, huh?
+STA I was until you showed up.
+( Laughs )
+GRY I like this guy.
+( Laughs )
+ADI He, um... he says he likes you.
+STA Well, he's clearly a genius.
+( Laughing )
+ADI I think I can help you with this.
+BRN How's he doing?
+Any news?
+BK Dr. Pollard said it would take some time, but, uh... he's gonna make
+it.
+BRN I'm glad.
+And you?
+BK Yeah, I mean, device is gone for good.
+Neck's a little stiff, but she said the swelling should go down in a
+few days, I hope.
+Time to face the firing squad, huh?
+BRN Yeah.
+We'll see.
+BK Look, uh...
+I'm sorry I put you in this position.
+BRN You didn't.
+BK I hope you don't regret it.
+BRN How could I?
+( Turbolift stops )
+BK Thank you.
+Thank you for saving my life.
+BRN I'm glad I found you.
+BK We always find each other.
+LINUS Oh.
+( Both exhale )
+This is not the science lab.
+( Huffs )
+( Both laugh )
+BRN We have these new badges.
+( Laughs )
+HUGH So we have Adira to thank for this?
+STA God, I hated those things.
+HUGH I hated them more.
+It's amazing.
+And she's only 16.
+STA She trusted me today.
+HUGH And that's bad, why?
+STA Because I've never had time to be a tween's confidante.
+HUGH ( Laughing ) Paul.
+She's not gonna invite you to her slumber party.
+Why do you think you reached out to her today?
+STA Because she's brilliant and... seemed to have a hard time with people
+or doing anything besides work.
+HUGH Remind you of anyone?
+STA And... because she loves someone who died.
+But isn't gone.
+I never... ever thought I'd meet anyone who knew what that was like.
+And...
+I guess I'm grateful to her.
+And I want to help her somehow.
+And she has no idea.
+HUGH So tell her.
+VN Your job is to follow orders, Captain.
+But I need to rely on your judgment.
+Commander Burnham's mission was 100% rogue but also an unexpected
+opportunity.
+If asked, I may have deemed the intel worth the risk.
+SAR Noted, sir.
+VANCE Commander Burnham, why don't you tell me what I'm about to say?
+BRN The source of the Burn is not an issue that you have the luxury of
+pursuing.
+VN Correct.
+BRN Because every day you have a hundred fires you have to put out.
+VN Correct.
+BRN And I disobeyed a direct order and undermined my captain's authority.
+And yours.
+VN Correct.
+For a hot second there, it looked like Discovery may have had to
+engage with the Emerald Chain without her Number One.
+Did you think about the position you put your captain in?
+You put Starfleet in?
+As far as I'm concerned, when you jumped through that wormhole, you
+were doing your job.
+You're here now.
+And every mission, you start from zero.
+The only reason you're not in the brig is because you saved lives.
+Am I being clear, Commander Burnham?
+BRN Very clear, sir.
+Permission to speak?
+VN It had better be the best thing I've ever heard.
+For the last year, I have spent every single day searching for the
+source of the Burn.
+Until we solve the mystery of how it happened and why, I believe the
+Federation will never be...
+can never be... brought back together again.
+VN Well, we'll see what your intel brings, Commander.
+I will leave it up to you, Captain, to determine the consequences of
+her insubordination.
+SAR Thank you, Admiral.
+BRN I am sorry.
+SAR The admiral made some excellent points.
+And I will continue to reflect on the way I have handled all this.
+We both made mistakes.
+I was particularly disappointed.
+BRN That was...
+SAR While I agree with your intentions, the decision I am now forced to
+make comes down to one thing and one thing only, Commander.
+It's not about your skill.
+It's not about your ability.
+It is about trust.
+In your defense, you were clear in your ambivalence when I asked you
+to be my Number One.
+In my desire to... return to a sense of... things as they were.
+But as we keep learning...
+... things are not as they were.
+BRN No, they're not.
+SAR I take no pleasure in this.
+But... as of now, you are relieved of your duty as my Number One.
+You will restrict yourself to chief science officer duties only.
+BRN Saru?
+You're doing the right thing.
+SAR One day... we will find the answers we are all looking for, Michael.
+( Exhales )
+I want the truth for all of us. Did my crew and I worked together to
+save all sentient life in the universe? Didn't you see all of us...
+imperfect and flawed as we all are... still live up to our best
+ideals. It is the greater good I am fighting for. Together you could
+create something bigger than yourselves.
+It's what the Federation is.
+THE END 

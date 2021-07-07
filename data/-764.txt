@@ -1,0 +1,530 @@
+PART ONE 
+PICARD See. And... raise.
+DATA Hmm.
+DATA Call.
+DATA I will take two, please.
+PICARD You have a tell.
+DATA That is impossible, sir.
+PICARD Every now and then, you dilate your left pupil, ostentatiously, I might add, in an effort to cheat me into thinking that
+you have a tell.
+PICARD But your true tell is you don't have one.
+PICARD When your eyes are neutral, that's when I know you're bluffing.
+DATA Mm. Now that you've told me that, Captain, I am confused about which deception to employ.
+DATA Fifty.
+PICARD Fifty?
+PICARD That's everything I have.
+DATA I can see that, Captain.
+DATA Do you wish to call or fold?
+PICARD Let's behave like civilized men.
+PICARD Milk?
+DATA No, thank you, sir.
+PICARD Sugar?
+DATA No, thank you, sir.
+DATA Why are you stalling, Captain?
+PICARD I don't want the game to end.
+PICARD I'm all in.
+PICARD Strange. I didn't know we were on course to Mars. This isn't right.
+PICARD Oh, Number One. It's all right, boy.
+PICARD Hey, it's all right.
+PICARD It's all right.
+DAHJ I love how they do that.
+CALER So, what are we celebrating?
+DAHJ Guess.
+DAHJ Use those famous Xahean instincts.
+CALER Okay. You have... a secret.
+CALER A happy secret.
+CALER No way.
+DAHJ I got into Daystrom.
+CALER Dahj!
+CALER You're amazing.
+DAHJ Thank you.
+CALER Robotics or, uh...?
+DAHJ Dude, I'm a fellow in
+Artificial Intelligence and Quantum Consciousness.
+CALER Wow, that's... That's pretty, that's pretty cool.
+CALER Wow.
+CALER I might even be able to sit with you in the cafeteria.
+DAHJ Um, maybe. I don't know.
+CALER No?
+CALER More wine?
+DAHJ Something better. Surprise me.
+CALER Wines.
+CALER Dahj, your replicator menus are tragic.
+CALER Vanilla and... vanilla.
+CALER Of course.
+DAHJ No! No! No!
+INTRUDER ONE Speak English!
+INTRUDER TWO Where are the rest of you? Where are you from?
+DAHJ I-I don't know...
+INTRUDER TWO Where are you from?
+DAHJ I'm from Seattle. I...
+INTRUDER  THREE We can get it later. Knock her out.
+DAHJ No, no!
+INTRUDER  ONE She's activating!
+INTRUDER ONE She's activ...
+INTRUDER TWO Ah... Hmm.
+PICARD Ah... I know you think you're bringing that in the house, but it's out of the question.
+PICARD Don't pretend you don't speak French. We practiced.
+ZHABAN Number One, what do you have?
+PICARD You mean whom does he have.
+LARIS Our little assassin.
+PICARD Well, even assassins need a bath sometime.
+ZHABAN Laris heard you talking in your sleep last night.
+PICARD Did I say anything of interest?
+LARIS No, you talked rubbish. But you're not sleeping. Bad dreams?
+PICARD The dreams are lovely. It's the waking up that I'm beginning to resent.
+LARIS Ah, no melancholy. Today's a big day. Now, go and get your breakfast.
+PICARD You know, I am beginning to regret that I ever allowed myself to be talked into doing this.
+ZHABAN He won't take breakfast from me.
+PICARD Old dogs.
+ZHABAN Which one?
+PICARD Mm.
+PICARD Tea. Earl Grey. Decaf.
+ZHABAN So, are we all ready?
+PICARD Oh, are you doing an interview as well, Zhaban?
+PICARD You know, sometimes you talk to me as if I were a benign old codger.
+LARIS "Codger"?
+ZHABAN Somewhere between a coot and geezer, I believe.
+ZHABAN Ooh, the first one just arrived.
+LARIS Go and get dressed, Your Highness.
+LARIS And don't forget to wash your hands.
+LARIS Ten years, still have to remind you.
+RICHTER Yeah. That's the one.Yeah. I like that.
+ZHABAN Extremely dignified, sir.
+PICARD Look at this knot. It's ridiculous.
+ZHABAN Well, maybe. But I want to keep my job.
+LARIS I know you're nervous.
+PICARD I am not nervous.
+LARIS The past is the past. Now. Much better.
+PICARD Huh.
+PICARD Yeah.
+ZHABAN Oh, the drama.
+PICARD You went over the terms with them?
+ZHABAN Three times, sir.
+ZHABAN She assured me she will not inquire about your separation from Starfleet.
+LARIS Yeah. After so long, sometimes I worry you've forgotten what you did, who you are.
+PICARD Laris, I...
+LARIS We...have not.
+LARIS Now go.
+ZHABAN And, sir?
+ZHABAN Be the captain they remember.
+RICHTER While Captain of Starfleet's Flagship Enterprise, he was hailed as one of our galaxy's most intrepid explorers, a skilled diplomat, military strategist, humanitarian and author of many widely-praised works of historical analysis.
+RICHTER He joins us on the anniversary of the Romulan supernova to discuss his role in those tragic events.
+RICHTER I have the rare honor of introducing Admiral Jean-Luc Picard.
+PICARD Retired.
+RICHTER You've never agreed to an interview before, so thank you for inviting the galaxy into your study.
+PICARD Oh, less crowded than I thought.
+RICHTER Well... today is a solemn day.
+PICARD It is a day of memories.
+PICARD Raising awareness of the supernova's lingering impact is work that I am extremely passionate about.
+RICHTER Let's explore that.
+RICHTER When you first learned that the Romulan sun was going to explode and the terrible consequences that would bring, what feelings came up for you?
+PICARD Oh, well, there are no words to describe the...calamitous scale of that change.
+PICARD Which is one of the reasons...
+RICHTER You can't tell us how you felt, but your initial actions were to call for a massive relocation of Romulans?
+PICARD Well, the Romulans asked for our help, and I believed we had a profound obligation to give it.
+RICHTER Many felt there were better uses for our resources than aiding the Federation's oldest enemy.
+PICARD Well, fortunately, the Federation chose to support the rescue effort.
+RICHTER Yes. Initially.
+PICARD I have been known to be persuasive.
+PICARD But the Federation understood there were millions of lives at stake.
+RICHTER Romulan lives.
+PICARD No. Lives.
+RICHTER You left the Enterprise to command the rescue armada.
+RICHTER 10,000 warp-capable ferries.
+RICHTER A mission to relocate 900 million Romulan citizens to worlds outside the blast of the supernova.
+RICHTER A logistical feat more ambitious than the pyramids.
+PICARD The pyramids were a symbol of colossal vanity.
+PICARD If you want to look for a historical analogy...
+PICARD Dunkirk.
+RICHTER Dunkirk.
+PICARD Yes.
+RICHTER And then the unimaginable happened. Can you tell us about that?
+RICHTER Admiral?
+PICARD I thought we were here to talk about the supernova.
+RICHTER A group of rogue synthetics dropped the planetary defense shields and hacked Mars's own defense net.
+PICARD Yes. 
+RICHTER Wiping out the rescue armada and completely destroying the Utopia Planitia Shipyard.
+RICHTER The explosions ignited the flammable vapors in the stratosphere.
+RICHTER Mars remains on fire to this day.
+RICHTER 92,143 lives were lost, which led to a ban on synthetics.
+PICARD Yes.
+PICARD We still don't know why the synthetics went rogue and did what they did that day, but I believe the subsequent decision to ban synthetic life-forms was a mistake.
+RICHTER Lieutenant Commander Data, operations officer on the Enterprise, was synthetic.
+RICHTER Did you ever lose faith in him?
+PICARD Never.
+RICHTER What was it that you lost faith in, Admiral?
+RICHTER You've never spoken about your departure from Starfleet.
+RICHTER Didn't you, in fact, resign your commission in protest?
+RICHTER Tell us, Admiral.
+RICHTER Why did you really quit Starfleet?
+PICARD Because it was no longer Starfleet.
+RICHTER I'm sorry?
+PICARD Because it was no longer Starfleet!
+PICARD We withdrew.
+PICARD The galaxy was mourning, burying its dead, and Starfleet had slunk from its duties.
+PICARD The decision to call off the rescue and to abandon those people we had sworn to save was not just dishonorable. It was downright criminal!
+PICARD And I was not prepared to stand by and be a spectator.
+PICARD And you, my dear, you have no idea what Dunkirk is, right?
+PICARD You're a stranger to history. You're a stranger to war.
+PICARD You just wave your hand and it all goes away.
+PICARD Well, it's not so easy for those who died.
+PICARD And it was not so easy for those who were left behind.
+PICARD We're done here.
+PICARD "There's no legacy as rich as honesty."
+PICARD Who said that, Number One?
+PART TWO 
+PICARD What do you want here?
+DAHJ I saw your interview.
+DAHJ Do you know me?
+PICARD What?
+DAHJ Do you know me?
+PICARD No.
+DAHJ Look at me.
+DAHJ You're not sure.
+DAHJ You're not sure.
+DAHJ How do I know that?
+PICARD Who are you?
+DAHJ I was with my boyfriend.
+DAHJ We were in my apartment.
+DAHJ They put a bag over my head. I couldn't see anything.
+PICARD Who are "they"?
+DAHJ I don't know, but my boyfriend...
+DAHJ They murdered him.
+DAHJ Then I killed them.
+DAHJ All of them.
+PICARD What?
+DAHJ Something inside of me just knew what to do, how to move, how to fight.
+DAHJ And somehow... It was like lightning... seeking the ground.
+DAHJ And then I took the bag off.
+DAHJ There was so much blood, so I just ran.
+PICARD Shh.
+DAHJ I didn't know where to go.
+PICARD Shh. Please, try and calm yourself.
+PICARD Shh. Try and calm yourself, okay?
+DAHJ But in my mind, I kept seeing you.
+DAHJ I kept seeing your face.
+PICARD Me?
+DAHJ Yes.
+DAHJ I came because the same lightning that got me out of there alive led me here.
+PICARD Why?
+DAHJ Because everything inside of me says that I'm safe with you.
+LARIS There you go.
+LARIS Good as new.
+DAHJ Thank you.
+ZHABAN Here you are.
+PICARD Earl Grey. Never fails.
+LARIS We'll be in the kitchen.
+PICARD That's an unusual necklace.
+PICARD May I see?
+PICARD Thank you.
+DAHJ My father gave it to me.
+PICARD Hmm. Lovely.
+DAHJ Have you ever...?
+PICARD Ever what?
+DAHJ Been a stranger to yourself?
+PICARD Many, many times.
+PICARD Thank you.
+PICARD May I ask your name?
+DAHJ Dahj.
+PICARD Dahj.
+PICARD I'm Jean-Luc.
+DAHJ I know.
+DAHJ And not because of the interview or because you're the great man.
+DAHJ I know you.
+PICARD Well, I've spoken, lectured.
+DAHJ No, it's...
+DAHJ It's older.
+DAHJ Deeper.
+DAHJ Much, much deeper.
+PICARD You may be right.
+DAHJ Do you know how?
+PICARD No.
+DAHJ Do you think I'm crazy?
+PICARD No.
+DAHJ Do you believe me?
+PICARD I believe that you believe that you're supposed to be here.
+PICARD And if you were dangerous, then Number One would let me know.
+PICARD Laris. Could you show our guest to a room?
+PICARD I think she needs a good night's sleep.
+LARIS Come on, dear. We'll get you set up.
+DAHJ Thank you.
+DATA Would you like to finish it, Captain?
+PICARD I don't know how.
+DATA That is not true, sir.
+PICARD No.
+PART THREE 
+LARIS Excuse me, sir. The young woman has gone.
+PICARD Where?
+LARIS I was up at 5:00. Her door was open.
+LARIS The dog was in her bed, but she was gone.
+LARIS I-I checked the feeds. She's nowhere on the property.
+PICARD There is somewhere I have to go.
+PICARD If she returns, contact me immediately.
+PICARD Everything in the quantum archive is locked in stasis, correct?
+INDEX Correct.
+PICARD And no one beside myself has access, correct?
+INDEX Unless you prefer we sell tickets.
+PICARD Is that humor?
+INDEX We're trying something new.
+PICARD Don't give up your day job.
+INDEX My program offers you privacy beyond this point.
+INDEX If you need me again, just say "Index."
+PICARD Index. Identify this painting.
+INDEX Item 227.67.
+INDEX Archives of Jean-Luc Picard, admiral, retired.
+INDEX An oil on canvas painted by Commander Data, circa 2369.
+INDEX One of a set of two.
+INDEX He gifted it to you on the Enterprise.
+INDEX The other is hanging on your study wall at home, I believe.
+PICARD And no one else has been in here?
+PICARD Not even for servicing?
+PICARD Check the records.
+INDEX No one, Admiral.
+PICARD This painting had a title.
+INDEX Accessing.
+INDEX This painting is called "Daughter."
+DAHJ'S MOM Hi, honey.
+DAHJ Mom, someone tried to kill me.
+DAHJ'S MOM What? Honey, wh-who? Wha...
+DAHJ I'm...
+DAHJ I just ran. I think they're still after me.
+DAHJ I don't know what's happening, Mom.
+DAHJ'S MOM  Dahj, you need to get somewhere safe.
+DAHJ Mom, I tried, but-but I couldn't stay there.
+DAHJ I-I can't put anyone else in danger.
+DAHJ I don't want anyone else to get hurt, Mom.
+DAHJ Mom, I'm so scared.
+DAHJ'S MOM Honey, this is important.
+DAHJ'S MOM You have to go back to Picard.
+DAHJ No, no, it's too dangerous for him. It...
+DAHJ Wait.
+DAHJ Wait, I-I didn't tell you that I went to Picard.
+DAHJ'S MOM Of course you did, sweetie.
+DAHJ'S MOM How else would I know?
+DAHJ Mom, I haven't spoken to you since it happened.
+DAHJ What's happening?
+DAHJ'S MOM Baby, please.
+DAHJ'S MOM Find Picard. He can help you.
+DAHJ'S MOM He will help you.
+DAHJ'S MOM Just close your eyes and focus.
+DAHJ'S MOM Think clearly, Dahj.
+DAHJ'S MOM Clearly, Dahj.
+DAHJ'S MOM Now find Picard again.
+DAHJ'S MOM Go.
+PICARD Dahj?
+PICARD How did you know I was here?
+PICARD I was so very worried when I found you'd gone.
+DAHJ I was afraid that they would come, that you would be in danger.
+DAHJ I knew how to track you here.
+DAHJ I-I know stuff now.
+DAHJ I can hear conversations a block away.
+PICARD Come. Let's get away from here.
+DAHJ So I did some research. I may have schizophrenia.
+DAHJ Or maybe I had head trauma. The auditory hallucinations...
+PICARD No, you don't have schizophrenia.
+DAHJ Then I'm a freak.
+PICARD In fact, you might be very special.
+PICARD I had a dear friend.
+PICARD Commander Data.
+PICARD He was an android.
+DAHJ Like the ones who attacked Mars?
+PICARD No, no. Not at all. The word "android" conjures up all kinds of things for people.
+PICARD Forget them.
+PICARD Commander Data was a highly decorated Starfleet officer.
+PICARD And... he sacrificed his life for me.
+PICARD On our last mission together.
+PICARD It was over two decades ago now.
+PICARD But he was also an artist.
+PICARD A painter.
+DAHJ Why are you telling me this?
+PICARD Because, Dahj, he painted you.
+PICARD Exactly as you are here and now.
+PICARD But he painted it 30 years ago.
+DAHJ That's impossible.
+PICARD He named the painting "Daughter."
+DAHJ Okay, look, your friend painted someone, but...
+PICARD You said it was like lightning seeking the ground, in your apartment.
+PICARD You knew what to do even though you'd never done it before.
+DAHJ Adrenaline.
+PICARD And you knew they were coming after you.
+PICARD And the hearing.
+PICARD And y-you tracked me.
+PICARD How did you track me?
+PICARD Tracking me requires...
+DAHJ I just...
+PICARD ...a security clearance, which you don't have.
+PICARD I think the attack on you might have acted as some kind of wake-up call.
+PICARD Like a positronic alarm bell.
+DAHJ No.
+DAHJ No, I was born in Seattle.
+DAHJ My dad was a xenobotanist.
+DAHJ And our house was full of orchids.
+DAHJ He spliced two genuses and he named the offspring after me.
+DAHJ Orchidaceae Dahj oncidium.
+DAHJ Yellow and pink.
+PICARD That's a beautiful memory.
+PICARD And it's yours.
+PICARD No one can touch it or take it away.
+PICARD But... you must look inside, deeply and honestly.
+PICARD Have you ever considered the possibility...
+DAHJ That I'm a soulless murder machine?
+PICARD That you are something lovingly and deliberately created.
+PICARD Like Dahj oncidium.
+DAHJ You're telling me that I'm not real.
+PICARD No, I'm not.
+PICARD If you are who I think you are... you are dear to me in ways that you can't understand.
+PICARD I will never leave you.
+PICARD We will go together to the Daystrom Institute in Okinawa.
+DAHJ I was just accepted at Daystrom as a research fellow.
+PICARD You were? That's brilliant.
+DAHJ That doesn't mean anything anymore.
+PICARD If I'm right, it means that you are the daughter of a man who was all meaning, all courage.
+PICARD Be like him.
+DAHJ They found us. Move, now.Oh.
+PICARD Dahj, wait. We need help.
+DAHJ They're almost here.
+PICARD Dahj, stop. Wait.
+DAHJ No, there's no time.
+PICARD Oh.
+DAHJ Stay down!
+PICARD No!
+PART FOUR 
+DATA Would you like to finish it, Captain?
+PICARD I will never leave you.
+RICHTER Why did you really quit Starfleet?
+INDEX This painting is called "Daughter."
+LARIS He's awake.
+PICARD I'm all right, boy.
+PICARD Aren't I?
+ZHABAN You took a bad knock.
+ZHABAN Otherwise, you are apparently the same.
+LARIS You gave us a fright.
+PICARD Huh.
+ZHABAN What happened, Admiral?
+PICARD  Dahj.
+PICARD  She's dead.
+LARIS How is that possible?
+ZHABAN The police didn't mention her.
+ZHABAN They said you were alone when they found you on the roof.
+LARIS They said there was no one else on the security feed but you.
+LARIS That you were running...
+ZHABAN She could've had a cloaking device and that's why we didn't see her on the property feeds.
+PICARD Yeah, maybe it activated automatically... when she was in danger.
+LARIS Sir?
+PICARD She was a synthetic.
+PICARD The assassins were Romulan.
+PICARD Oh, she came here to find safety.
+PICARD Like you and Zhaban.
+PICARD Like me.
+PICARD She deserved better from me.
+PICARD I owe it to her to find out who killed her and why.
+LARIS You ask too much of yourself.
+PICARD Oh.
+PICARD Sitting here, all these years, nursing my offended dignity, writing books of history people prefer to forget.
+PICARD I never asked anything of myself I haven't been living.
+PICARD I've been waiting to die.
+JURATI Admiral Picard.
+JURATI It's an honor.
+PICARD Dr. Jurati. Thank you for giving me the time.
+JURATI Oh, Agnes.
+JURATI H-How can I help you?
+PICARD You can tell me if it is possible to make a sentient android out of flesh and blood.
+JURATI No, really. How can I...
+JURATI Is that why you've come here?
+PICARD It is.
+JURATI Even before the ban, that was... well, uh....
+JURATI W-Well, a flesh-and-blood android was in our sights, but a sentient one?
+JURATI Not for a thousand years.
+PICARD That makes it even more curious that recently I had tea with one.
+JURATI It was the Grand Slam.
+JURATI Uh, sentient synthetics that appear human inside and out.
+JURATI Feels like a lifetime ago now.
+JURATI Welcome to what's left of the Federation's Division of Advanced Synthetic Research.
+PICARD It's a ghost town.
+JURATI In more ways than one.
+JURATI The androids that destroyed Mars came from this lab.
+JURATI Now we're only allowed to operate theoretically.
+JURATI Study, publish, run simulations.
+PICARD But you can't actually make anything.
+JURATI Correct. This is everything that ever mattered to us.
+JURATI To me.
+JURATI No one makes synths anymore, of any kind.
+JURATI It's a violation of galactic treaty.
+PICARD But isn't it possible to create a synthetic that looks fully human?
+JURATI The short answer is no.
+PICARD Well, give me the long answer.
+JURATI It'll still be no.Please.
+PICARD Humor me.
+PICARD It's a B4, isn't it?
+PICARD Looks so much like Data.
+JURATI He's an inferior copy.
+JURATI Data tried to download the contents of his neural net into B4 just before his death.
+JURATI Almost all of it was lost.
+JURATI Ultimately, B4 wasn't much like Data at all.
+JURATI In fact, no other synth has been.
+PICARD No.
+JURATI And there's the rub.
+JURATI No one has ever been able to redevelop the science used to create Data.
+JURATI Then came Bruce.
+JURATI Maddox. He recruited me out of Starfleet.
+JURATI Despite Data's death, we came so close.
+JURATI Then we got shut down, and it crushed him.
+PICARD Where is he now?
+JURATI He disappeared after the ban.
+JURATI I've tried to find him, but...
+PICARD You said "despite Data's death," meaning that any new synthetic would have to be made from Data.
+JURATI Advanced ones, yes.
+JURATI If you had Data's neural net, perfecting a flesh-and-blood host body would be relatively simple.
+PICARD But his neurons died with him.
+JURATI See, now you're coming around to that no I've been promising you.
+PICARD Does this mean anything to you?
+JURATI Where did you get that?
+PICARD From my tea-drinking companion.
+PICARD The one you said couldn't exist.
+JURATI I really... really wish you'd come here on my day off.
+JURATI It's a symbol for fractal neuronic cloning.
+PICARD I'm sorry?
+JURATI It was a radical, beautiful idea of Maddox's.
+JURATI His theory was that Data's entire code, even his memories, could be reconstituted from a single positronic neuron.
+JURATI If there is a synth out there who is perfect, like you say...
+PICARD Then Data, or some part of him,
+PICARD an essence of him...
+JURATI Essence, yes.
+PICARD ...would be alive.
+JURATI There'd be no way of knowing without examining...
+PICARD Dahj.
+PICARD The girl.
+PICARD PICARD Data's daughter.
+PICARD He always wanted a daughter.
+PICARD I believe that Maddox modeled her on an old painting of Data's.
+JURATI A female?
+JURATI Yes, I suppose you could make them that way.
+PICARD Uh, I'm sorry? "Them"?
+JURATI They're created in pairs.
+PICARD Twins?
+JURATI Twins.
+PICARD So there's another one.
+NAREK Dr. Asha?
+NAREK I don't mean to intrude. I'm Narek.
+NAREK I'm new here.
+SOJI Soji.
+NAREK That's a beautiful name.
+NAREK I've been reading about your work.
+NAREK It's-it's fascinating.
+NAREK I feel like I've got so many questions.
+SOJI And I feel like you're about to ask them.
+NAREK That's nice.
+NAREK Your necklace.
+SOJI Uh, my father made it.
+SOJI One for me and one for my sister.
+SOJI I'm a twin.
+NAREK Oh. I had a brother.
+NAREK Not a twin, but... we were really close.
+NAREK We, um... we lost him last year.
+NAREK Very unexpected.
+NAREK You're lucky to have her.
+NAREK I'm sorry. You spend your day fixing broken people.
+NAREK I'm guessing the last thing you want when you get off work is to listen to another sad story.
+SOJI Guess again.
+THE END 

@@ -1,27 +1,15 @@
 import re
 import os
-import sys
-import csv
 import json
-import time
 import random 
-import shutil
 import tarfile
-import argparse
-import requests
 
-import numpy as np 
 import tensorflow as tf
 import gpt_2_simple as gpt2
 
 from . import Constants 
-from tqdm import tqdm, trange
 from datetime import datetime
-from tensorflow.python.client import device_lib
-from tensorflow.core.protobuf import rewriter_config_pb2
-from gpt_2_simple.src.accumulate import AccumulatingOptimizer
-from gpt_2_simple.src.load_dataset import load_dataset, Sampler
-from gpt_2_simple.src import model, sample, encoder, memory_saving_gradients
+from gpt_2_simple.src import model
 
 
 def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):

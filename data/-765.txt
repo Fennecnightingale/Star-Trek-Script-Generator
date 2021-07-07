@@ -1,0 +1,573 @@
+PART ONE 
+COMPUTER Attention, all personnel.
+COMPUTER Happy First Contact Day.
+COMPUTER Celebrations will be held in designated recreational areas during regularly scheduled alpha and beta shift breaks.
+COMPUTER All directors, please submit final duty logs prior to shift change.
+COMPUTER Sector 3 maintenance regulators will report to mandatory security training...
+PINCUS Good morning, plastic people.
+ANDROIDS Good morning, Mr. Pincus.
+PINCUS Let's go to work.
+COMPUTER All A500 maintenance issues should be reported to Synthetic Personnel supervisors prior to initiating manual shutdown proceedings.
+WOMAN ONE Every other tri-hy station in the yard gets off First Contact Day.
+MAN Not us.
+WOMAN ONE What'd we do wrong?
+MAN To have a skeleton crew, you have to have skeletons.
+WOMAN ONE I bet my kids are having cake on Earth.
+WOMAN TWO Yo, F8, you get into any trouble last night?
+F8 Hell yeah.
+WOMAN TWO Oh, yeah? Doing what?
+F8 Nothing.
+WOMAN TWO Hell yeah.
+F8 Hell yeah.
+MAN Hey, F8, I got one for you.
+MAN What's brown and sticky?
+F8 Teratogenic coolant.
+F8 Isonucleic residue.
+F8 Boson-enriched nanopolymer.
+MAN A stick.
+MAN You get it?
+F8 No.
+WOMAN TWO Dude creeps me out.
+WOMAN ONE Hey, he can hear you.
+WOMAN ONE And? You can't offend them. They're not people.
+WOMAN TWO And they can rip through solid titanium without breaking a sweat.
+WOMAN ONE What are you, his sister?
+WOMAN TWO Ugh, who raised you?
+COMPUTER Report to primary reactor control sector.
+COMPUTER ...Sector 3.
+COMPUTER Hazard protocol in effect until further notice.
+WOMAN ONE I wish they'd go back to using uno-amino matrices in the replicators.
+MAN No kidding.
+WOMAN TWO Space pineapples again.
+WOMAN TWO I know what's brown and sticky.
+MAN This food is brown and sticky.
+MAN Is this a joke?
+MAN TWO Hey, that dude is lucky. He doesn't have to eat this crap.
+WOMAN ONE Now, here is some brown, sticky shit.
+WOMAN TWO Amen.
+MAN TWO Did you replicate flies with that, too?
+WOMAN TWO What are you doing?
+COMPUTER Security alert.
+COMPUTER Multiple synthetic labor units have been compromised.
+MAN TWO Hey. Get away from there.
+COMPUTER Deflector shields down in all sectors of Utopia Planitia.
+COMPUTER Repeat, security alert.
+WOMAN TWO Shit.
+COMPUTER Multiple synthetic...
+WOMAN TWO Central, this is tri-hy station A19.
+WOMAN TWO Synth unit F8 has been compromised.
+WOMAN TWO We have a man down.
+WOMAN TWO Repeat, we have a man down.
+GUARD Stand down!
+COMPUTER Grid failure detected.
+COMPUTER Move immediately to designated safe zones.
+COMPUTER Security grid failure in progress.
+COMPUTER Containments have failed.
+COMPUTER Evacuate immediately.
+COMPUTER Orbital defense system compromised.
+COMPUTER Emergency evacuation protocol in effect...
+COMPUTER Cascade failure in progress.
+COMPUTER Surface scans negative.
+COMPUTER No matter or trace elements consistent with Dahj Asha are present.
+PICARD They erased her.
+LARIS And then they erased themselves.
+ZHABAN Well, it's certainly Tal Shiar's operational style, but...
+LARIS On Earth?
+LARIS Not even the Tal Shiar would have that audacity.
+ZHABAN Then who?
+LARIS It has to be.
+LARIS Zhat Vash.
+ZHABAN And here we go.
+PICARD  What is Zhat Vash?
+ZHABAN A Tal Shiar myth.
+ZHABAN It's a kind of boogeyman they use to frighten new recruits.
+ZHABAN And children.
+PICARD  Please explain.
+LARIS Here in the Federation, you refer to the Tal Shiar as the Romulan secret police.
+PICARD  Mm-hmm.
+LARIS But it's a bit redundant.
+LARIS You could put the word "secret" in front of almost any aspect of Romulan culture.
+LARIS I have heard... and I have reason to believe... that the Tal Shiar is merely a mask worn by another, far older cabal.
+LARIS That before the Tal Shiar, there was the Zhat Vash.
+ZHABAN "Zhat vash" is a term sometimes used to refer to the dead, the only reliable keepers of secrets.
+PICARD Ominous.
+LARIS No. Fitting.
+LARIS Because that's the sole purpose of the Zhat Vash.
+LARIS To keep a secret so profound and terrible just learning it can break a person's mind.
+LARIS Are you sure she said that he was murdered here, in her apartment?
+PICARD She did.
+PICARD All apparent evidence to the contrary.
+PICARD Would it be foolish to ask what is the dread secret that the Zhat Vash are keeping?
+LARIS No one outside the Zhat Vash knows for sure.
+LARIS But I've heard whispers.
+PICARD Romulan methods of forensic molecular reconstruction are illegal in the Federation.
+LARIS Really?
+LARIS I had no idea.
+PICARD Yeah.
+PICARD They're also unreliable, and, uh, the results are dubious at best.
+LARIS Ah, yeah.
+LARIS That's exactly what we wanted you to think.
+LARIS When I was a new recruit, one of my first handlers...
+ZHABAN My mother.
+LARIS ...got drunk on Romulan ale...
+ZHABAN My father.
+LARIS ...and let slip that at the heart of the Zhat Vash mission was a deep, unassuageable loathing.
+PICARD A loathing of whom?
+LARIS Not whom.
+PICARD What.
+CALER More wine?
+DAHJ Surprise me.
+CALER Dahj, your replicator menus are tragic.
+PART TWO 
+LARIS That's... extraordinary.
+LARIS It's said they operate without regard for treaty or jurisdiction... and not just in Romulan worlds, but in the Klingon Empire, the Gorn Hegemony, even the Federation itself...
+LARIS And that they have kept this secret for thousands upon thousands of years.
+LARIS Oh, the cheeky fuckers.
+LARIS They've overwritten the particle residuum.
+PICARD Overwritten it?
+LARIS Yes. And in a very sophisticated way.
+LARIS It's... barely detectable.
+LARIS It would read as instrument failure if you didn't know better.
+PICARD But it's not.
+LARIS It's a flat-out wipe.
+PICARD Can you recover it?
+LARIS Uh...
+LARIS Have you never noticed the complete absence of any form of artificial life in Romulan culture?
+LARIS We don't have androids or AIs.
+LARIS We don't study cybernetics.
+LARIS Our computers are limited to purely numerical functions.
+LARIS They must have saturated this place in antileptons.
+LARIS At no small risk to themselves, by the way.
+LARIS This place hasn't just been cleaned, Admiral.
+LARIS It's been scrubbed.
+PICARD Is that to be expected of your Zhat Vash?
+LARIS Well, they're not my Zhat Vash, and I thought you didn't believe in them.
+PICARD I may be coming around.
+PICARD So, then... all this is about the Zhat Vash hatred of androids.
+LARIS It's not simply hate.
+LARIS It's hate and fear and pure loathing for any form of synthetic life.
+PICARD Why?
+LARIS That I can't tell you.
+LARIS I don't know.
+LARIS But I am certain that is the silence that seals the mouths of the Zhat Vash, as surely and eternally as death.
+LThe operatives who did this wouldn't have wanted to leave the impression that the place had been scrubbed.
+LARIS We may find they've neglected something, some... actual clue... that lay tucked inside a false clue, as it were.
+PICARD Something like this, for example?
+LARIS There's no record of any incoming or outgoing calls.
+LARIS The information's there, but the indexes have been surgically deleted.
+LARIS There's no way to sort the data.
+LARIS Essentially, they've sterilized it, so that it's... qualitatively agnostic.
+LARIS There's no distinction.
+LARIS Everything looks like everything else.
+PICARD What we need is a record of any contact that she may have had with her sister.
+LARIS Mm, and no doubt it's in here, but it will look the same as everything else.
+LARIS N... No, it... it will look like her.
+LARIS Like Dahj.
+LARIS Wh-What's her name? Um, Dr. Jurati.
+LARIS She said that they would be identical twins, right?
+PICARD Even closer than twins, perhaps.
+LARIS Okay. So what's the first thing you do when you bring a new digital assistant online?
+PICARD Introduce myself.
+LARIS Exactly.
+LARIS Computers like efficiency, so what a computer does is build heuristics, shortcuts to the tasks it performs most often.
+PICARD You're saying that if they were indistinguishable, then the machine, at some point, could have mistaken the sister for Dahj.
+LARIS Exactly.
+LARIS And if it did, even for a few seconds before it flagged the error, then the tags might still be in here, overlooked by even the most diligent of scrubbers.
+LARIS Got you.
+LARIS Okay.
+LARIS These were all outgoing.
+LARIS And these... were incoming.
+PICARD It's her.
+PICARD Ghosts in the machine.
+PICARD Can you tell me where she is?
+LARIS No.
+LARIS But I can tell you where she isn't.
+LARIS Nonlocal information packets are routed through subspace relays.
+LARIS This routing leaves tiny but unmistakable code marks.
+PICARD Nonlocal?
+LARIS I'm saying this transmission came from off-world.
+PICARD Are you certain?
+LARIS Wherever this girl was calling her sister from, it's nowhere on Earth.
+NAREK Beautiful?
+NAREK No one's ever said that before about a Borg Cube.
+SOJI This isn't a Borg cube, Narek. It's the Artifact.
+SOJI A Borg cube is mighty and omnipotent.
+SOJI The Artifact is lost.
+SOJI Severed from the Collective.
+SOJI Broken.
+SOJI Vulnerable.
+NAREK You find vulnerability and brokenness beautiful.
+SOJI Is that strange?
+SOJI To find beauty in imperfection?
+NAREK It's certainly not very Romulan.
+NAREK But, then, there's nothing very Romulan about this place at all.
+SOJI Apart from the current owners and the profits you extract from the exploitation of Borg technology.
+NAREK Are you a subversive, Dr. Asha, sent by our enemies to foment revolution among the researchers?
+SOJI Yes, I am.
+SOJI But it's too late now.
+SOJI You already slept with me.
+SOJI That makes you an accessory to my plot.
+NAREK Mm.
+NAREK Clearly... I'll have to silence you.
+SOJI Try it.
+SOJI Time for work.
+NAREK Yeah. Me, too.
+SOJI Oh, you have a job?
+SOJI Thought you were just some Romulan lounge lizard.
+NAREK Oh, we all have our part to play.
+SOJI Can I ask you a question?
+NAREK Sure. Just don't expect an answer.
+SOJI Are we allowed to be sleeping together? Or is that a secret?
+NAREK Very much the latter.
+SOJI Is everything Romulans do a secret?
+NAREK Ooh, I'm not at liberty to divulge that.
+SOJI Is your name actually Narek?
+NAREK It's one of them.
+SOJI So is there anything you can tell me about yourself?
+NAREK Yes.
+NAREK I'm a very private person.
+NAREK So, see you at the Checkpoint?
+SOJI Ooh, really?
+NAREK I need to see how it works.
+SOJI In your new capacity as...?
+NAREK Can you keep a secret?
+SOJI Yes.
+NAREK Good.
+NAREK So can I.
+PART THREE 
+MORITZ BENAYOUN He said I'd find you out here.
+PICARD Moritz.
+MORITZ BENAYOUN Hello, Jean-Luc.
+PICARD It's been a very long time.
+MORITZ BENAYOUN Too long.
+PICARD I know there was a bit of trouble with the remote medscan, but I hardly expected a house call.
+PICARD Let me just, um...
+PICARD Your office told me they would be forwarding the certificate for interstellar service as soon as you had seen the results.
+PICARD Oh, I see.
+MORITZ BENAYOUN You might want something stronger.
+MORITZ BENAYOUN Your medscan came in at or above Starfleet minimums in every category.
+MORITZ BENAYOUN Cardiovascular, metabolic, cognitive.
+MORITZ BENAYOUN For a relic, you're in excellent shape.
+MORITZ BENAYOUN Just that little abnormality in the parietal lobe.
+PICARD I was told a long time ago that it might cause a problem eventually.
+MORITZ BENAYOUN Loss of appetite, mood swings, unsettling dreams?
+MORITZ BENAYOUN Inappropriate displays of anger on interplanetary news holos?
+PICARD What do you think it is?
+MORITZ BENAYOUN I'd need to run more tests.
+MORITZ BENAYOUN It could be one of a number of related syndromes.
+PICARD Prognosis?
+PICARD Come on. Let's have it, Dr. Benayoun.
+MORITZ BENAYOUN A few are treatable, but... they all end the same way.
+MORITZ BENAYOUN Some sooner than others.
+PICARD I see.
+PICARD I need you to certify me to Starfleet as fit for interstellar service.
+PICARD Now, will you do it?
+MORITZ BENAYOUN I don't suppose you'd condescend to tell me why.
+MORITZ BENAYOUN Secret mission?
+MORITZ BENAYOUN We certainly had our share of those on the Stargazer, didn't we?
+MORITZ BENAYOUN Remember that time in the fireforest on Calyx...
+PICARD Dr. Benayoun.
+MORITZ BENAYOUN Forgive me.
+MORITZ BENAYOUN You really want to go back out into the cold.
+MORITZ BENAYOUN Knowing...
+PICARD More than ever, knowing.
+MORITZ BENAYOUN I don't know what kind of trouble you're planning to get into.
+MORITZ BENAYOUN Maybe if you're lucky, it will kill you first.
+COMPUTER All visitors must report to the main security desk.
+COMPUTER All visitors must report to the main security desk.
+COMPUTER Admiral Gurdy, please report to Conference Room B.
+COMPUTER Admiral Gurdy, please report to Conference Room B.
+PICARD Hello.
+PICARD I, uh, have a meeting with the CNC.
+PICARD I have an appointment.
+ATTENDANT Of course, sir.
+ATTENDANT May I have your name, please, sir?
+PICARD Oh, um, Picard.
+PICARD P-I-C-A-R-D.
+PICARD Jean-Luc.
+ATTENDANT Ah. It's nice to see you up and around, Admiral. Welcome back.
+ADMIRAL CLANCY Come.
+ADMIRAL CLANCY Jean-Luc.
+PICARD Kirsten.
+PICARD Hello.
+PICARD May I?
+ADMIRAL CLANCY Apparently, you have urgent Federation business.
+ADMIRAL CLANCY I understood you to have left affairs of state behind.
+PICARD I am staying as far from it all as I can.
+ADMIRAL CLANCY So then what can I do for you?
+PICARD Bruce Maddox.
+ADMIRAL CLANCY What about him?
+PICARD I believe that he is using neurons from the late Commander Data to create a new organic synthetic.
+ADMIRAL CLANCY Well, that's not far from all of it, it is all of it.
+PICARD The Romulans are involved.
+ADMIRAL CLANCY This gets better and better.
+PICARD Commander Data was not only my colleague, he was my dear friend, and he gave his life, body and soul, to the Federation.
+PICARD And if there is a chance that some part of him still exists, then I think we have an obligation to investigate.
+ADMIRAL CLANCY There is no "we," Jean-Luc.
+PICARD Kirsten, I know we have not always seen eye to eye.
+PICARD Nevertheless, I have a request to make.
+PICARD Based on my years of service, I want you to reinstate me, temporarily, for one mission.
+PICARD I will need a small warp-capable reconnaissance ship with a minimal crew, and if you feel that my rank makes me too conspicuous, well, then I an content to be demoted to Captain.
+ADMIRAL CLANCY The sheer fucking hubris.
+ADMIRAL CLANCY You think you could just waltz back in here and be entrusted with taking men and women into space?
+ADMIRAL CLANCY Don't you think I was watching the holo the other day along with everyone else in the galaxy?
+PICARD I should not have spoken in public.
+ADMIRAL CLANCY The Romulans were our enemies, and we tried to help them for as long as we could, but even before the synthetics attacked Mars, 14 species within the Federation said, "Cut the Romulans loose, or we'll pull out."
+ADMIRAL CLANCY It was a choice between allowing the Federation to implode or letting the Romulans go.
+PICARD The Federation does not get to decide if a species lives or dies.
+ADMIRAL CLANCY Yes, we do. We absolutely do.
+ADMIRAL CLANCY Thousands of other species depend upon us for unity, for cohesion.
+ADMIRAL CLANCY We didn't have enough ships left.
+ADMIRAL CLANCY We had to make choices.
+ADMIRAL CLANCY But the great Captain Picard didn't like his orders.
+PICARD I was standing up for the Federation, for what it represents, for what it should still represent.
+ADMIRAL CLANCY How dare you lecture me?
+PICARD Ignore me again at your cost.
+ADMIRAL CLANCY My cost?
+PICARD You are in peril, Admiral.
+ADMIRAL CLANCY There is no peril here, only the pitiable delusions of a once-great man desperate to matter.
+ADMIRAL CLANCY This is no longer your house, Jean-Luc.
+ADMIRAL CLANCY So do what you're good at. Go home.
+ADMIRAL CLANCY Request denied.
+COMPUTER Security badges must be visible at all times.
+SOJI Here, let me help you with that.
+NAÁSHALA KUNAMADÉSTIFEE So embarrassing.
+NAÁSHALA KUNAMADÉSTIFEE Thank you.
+SOJI Are you new here?
+SOJI I haven't seen you around.
+NAÁSHALA KUNAMADÉSTIFEE Yesterday.
+NAÁSHALA KUNAMADÉSTIFEE My residency was supposed to start six months ago, but the Romulan Free State revoked it when I was halfway here.
+NAÁSHALA KUNAMADÉSTIFEE I have no idea why, or why they finally reinstated it.
+SOJI Well, that sounds about right.
+SOJI They still don't have a clear idea of how much damage this cube sustained, or maybe they do and they just aren't telling, but, anyway, you don't want to cross over into the Gray Zone without this turned on.
+SOJI Don't worry, you're gonna be fine.
+CHECKPOINT SUPERVISOR Morning and welcome to Ops Cycle 9834...
+SOJI Here we go.
+CHECKPOINT SUPERVISOR As guests of the Borg Artifact Research Institute, your safety is important to us.
+CHECKPOINT SUPERVISOR You are standing inside one of the most destructive weapons ever known, and though no longer active, it remains potentially dangerous.
+CHECKPOINT SUPERVISOR Please don't venture outside of your designated research area.
+CHECKPOINT SUPERVISOR Assume that any fixture or instrument not personally known to be benign is malignant.
+SOJI Romulans are into drama.
+NAÁSHALA KUNAMADÉSTIFEE Who is that?
+SOJI That's Narek.
+SOJI He's new here, too.
+NAÁSHALA KUNAMADÉSTIFEE I didn't know Romulans could be so hot.
+CHECKPOINT SUPERVISOR ...from the Gray Zone will result in full prosecution...
+SOJI Me, either.
+CHECKPOINT SUPERVISOR While in the Grey Zone, you are likely to encounter former members of the Borg Collective.
+NAÁSHALA KUNAMADÉSTIFEE Are you researching the xBs?
+SOJI It's a little more hands-on.
+CHECKPOINT SUPERVISOR And if your gradient badge starts to blink green, run.
+SOJI Don't worry about it.
+SOJI Narek, this is...
+NAREK Dr. Naáshala Kunamadéstifee of Trill Polytech.
+NAREK The Institute is eager to see your work bear fruit, Doctor.
+NAÁSHALA KUNAMADÉSTIFEE How likely is the Collective to reestablish a link to your Borg?
+NAÁSHALA KUNAMADÉSTIFEE Is it, is it really wise to release them?
+SOJI They're former Borg, and we're not "releasing" them, we're reclaiming them.
+NAREK There's really no danger.
+NAREK When a cube undergoes submatrix collapse, the Collective immediately severs its link to the afflicted population.
+NAREK As far as the Collective are concerned, this is just a graveyard.
+SOJI And what does that make us?
+NAREK The same as you find in any graveyard.
+NAREK Some have come to feed on the dead, some are ghosts, and a few, like you, Dr. Asha, have pinned their hopes on resurrection.
+NAREK Um, may I join you for the procedure?
+NAREK I'd-I'd like to see you work.
+SOJI That's not up to me.
+SOJI You need approval from the Director of the Borg Reclamation Project.
+NAREK Hmm.
+NAREK Actually, I don't.
+PART FOUR 
+PICARD Ah. You have a taste for the classics, I see.
+PICARD I never really cared for science fiction.
+PICARD I guess I just didn't get it.
+PICARD Well, thank you for coming over.
+JURATI Yeah.
+JURATI It's hard to tear myself away from the action at my lab, but...
+PICARD Um, your preference? We have a selection.
+JURATI Earl Grey?
+PICARD I knew there was something about you.
+JURATI I gathered up, uh, everything I could find from Maddox's tenure at the Institute. 
+JURATI Most of what was there got blackboxed after he disappeared, but they left some of the ancillary stuff untouched.
+JURATI I was thinking about the painting.
+JURATI Bruce and Data were friends after a fashion.
+JURATI I-If Bruce is using Data's neurons to make more synths, it would make sense to model them after the painting Data made.
+PICARD Indeed.
+JURATI I also did a little digging into Dahj Asha.
+JURATI You're right.
+JURATI She was accepted at Daystrom.
+JURATI In fact, she was a perfect candidate.
+JURATI In hindsight, a little too perfect.
+PICARD Her credentials were bogus?
+JURATI It's more insidious than that. I checked with Regulus.
+JURATI Their records show she was enrolled there and her grade transcripts are on file.
+PICARD So she was what she claimed to be?
+JURATI She was a complete work of fiction.
+JURATI There's no record of her having actually attended R3SA.
+JURATI I-I'm no forensics maven, but my sense is that her entire identity was built all at once, about three years ago.
+PICARD By whom? Bruce Maddox?
+JURATI He certainly had the ability.
+PICARD Motive?
+JURATI I don't know.
+JURATI People in the synthetic humanoid field tend to get a little secret-planny.
+PICARD Milk?
+JURATI Uh, yes, please.
+JURATI Thank you.
+PICARD There you go.
+JURATI Oh, thank you.
+JURATI It breaks my heart that I never got a chance to meet her.
+JURATI Such a wondrous thing.
+JURATI And the damn Romulans just wiped her away.
+JURATI You asked me what the plan was, what she was after at Daystrom.
+JURATI I don't think that's the most relevant question right now.
+JURATI I think the question you should be trying to answer is...
+PICARD "What about the other one?"
+JURATI If she's really out there, and if the Romulans haven't gotten to her, too, then where is she?
+JURATI And what is she after?
+KABATH Continuing procedure on Patient 8923/3, one of the Nameless.
+KABATH Time in regenestasis, 14 years.
+KABATH Arm implant was successfully removed.
+KABATH Initiating ocular harvest procedure on Nameless.
+SOJI You know I hate it when you use that term.
+KABATH You may have mentioned that once.
+SOJI Why do you call them "the Nameless"?
+SOJI Their species had a name. We just don't know what it was.
+KABATH Nameless is a name.
+KABATH Removing ocular processing core.
+KABATH Tertiary mandible implant containment complete.
+KABATH Tagged for level 10 storage.
+KABATH Interlinked transceiver node confirmed inactive.
+KABATH Tagged for level one disposal.
+SOJI You are free now, my friend.
+PICARD Raffi, it's Jean-Luc. Please, don't hang up.
+PICARD I need your help.
+PICARD I need a ship.
+COMMODORE OH Picard again?
+COMMODORE OH And we all thought that he was safely mothballed on that vineyard of his.
+COMMODORE OH All these years. The Hermit of La Barre.
+COMMODORE OH Now suddenly he is inescapable.
+ADMIRAL CLANCY That's one word for what he is.
+ADMIRAL CLANCY Going on and on about advanced synthetics, Bruce Maddox and...
+COMMODORE OH Bruce Maddox? Is he still alive?
+ADMIRAL CLANCY Does it even matter? And then there was this wild talk about clandestine Romulan anti-synth ops here on Earth.
+ADMIRAL CLANCY It was just... it was just sad.
+COMMODORE OH One might be even inclined to say tragic.
+COMMODORE OH Admiral Clancy, I know I need hardly remind you if the Romulans were running clandestine operations on Earth, I would know.
+COMMODORE OH And then you would know.
+COMMODORE OH And then all of Starfleet would know, because clearly, that would be an overt and intolerable act of war.
+ADMIRAL CLANCY Of course. Look, Commodore, obviously there's nothing to it, but I thought I'd better check.
+ADMIRAL CLANCY Out of an excess of caution, as they say. Just look into it.
+COMMODORE OH Of course.
+COMMODORE OH Lieutenant Rizzo, to me, please.
+LARIS What?! Have you gone mad? Is it dementia?
+PICARD I beg your pardon?
+LARIS Sorry, but you're not a stupid man, so when I hear you say such a stupid idea,
+LARIS I have to ask for other explanations.
+PICARD Well, how about this.
+PICARD The daughter of the man whose death I have been mourning for two decades comes to me for help and assistance. And then she is assassinated in front of my eyes by a Romulan death squad who will then go and try and find and destroy her twin sister.
+PICARD And you want me to sit here worrying what to do about the spittlebugs on the pinots?
+LARIS I want you not to die.
+LARIS No one but the Tal Shiar could ever protect you against the Tal Shiar.
+ZHABAN She's not wrong.
+ZHABAN You can't go without us.
+LARIS Idiot! He cannot go at all. He's only safe here.
+LARIS He knows about them. They have to eliminate him.
+PICARD Nevertheless...
+PICARD I have to go.
+LARIS Go where? Go how?
+PICARD Well, I will get a ship, and I will find Bruce Maddox, wherever he is.
+PICARD Laris, I have to do this.
+PICARD I don't yet fully understand all of it, but I know that it's important.
+PICARD And not only to me.
+LARIS No, of course. If it's important to Jean-Luc Picard, it must be important to the whole galaxy.
+LARIS Go.
+LARIS And take that one with you. You can die together.
+ZHABAN Laris understands. She's afraid for you, that's all.
+PICARD I know that.
+PICARD But you have to stay here with her.
+PICARD The grapes are far more in need of protection that I am.
+PICARD And it's less than a month to the harvest.
+ZHABAN But you can't do it alone.
+ZHABAN You need help. You need protection.
+PICARD Yeah.
+ZHABAN You need a crew.
+ZHABAN Riker. Worf. La Forge.
+ZHABAN Hmm?
+PICARD No.
+PICARD I thought about it. And they would do it in a heartbeat, and that's precisely why I cannot ask them.
+PICARD They would put themselves at risk out of loyalty to me, and I do not want to have to go through that again.
+ZHABAN Okay.
+ZHABAN You need someone who hates you and has nothing to lose.
+PICARD I've already made the call.
+COMMODORE OH Come.
+LIEUTENANT RIZZO You wanted to see me, Commodore?
+COMMODORE OH Take a look at this.
+COMMODORE OH Does that look like disruptor fire? There.
+COMMODORE OH Reflected in the hand rail.
+LIEUTENANT RIZZO Not to me, no.
+COMMODORE OH Admiral Clancy just called. Jean-Luc Picard came to see her.
+COMMODORE OH He has information about clandestine Romulan ops here on Earth.
+COMMODORE OH He referred to Zhat Vash by name.
+COMMODORE OH He was trying to persuade her to give him a ship and let him go after Dr. Bruce Maddox.
+COMMODORE OH Although she did not mention that last part, nor the talk about Zhat Vash.
+LIEUTENANT RIZZO Then how do you know?
+COMMODORE OH Do not insult me, Lieutenant.
+COMMODORE OH It would not be advantageous for your career.
+LIEUTENANT RIZZO Apologies, Commodore. This is unexpected.
+COMMODORE OH A dirty word... in our line of work.
+COMMODORE OH Perhaps the worst word of all.
+LIEUTENANT RIZZO So you need me to take care of Picard?
+COMMODORE OH Your zeal and passion are commendable, but they are very nearly overbalanced by your impatience.
+COMMODORE OH There is a fundamental aptness in the word "undercover" which you have yet to fully absorb.
+LIEUTENANT RIZZO So I won't take care of him impatiently.
+LIEUTENANT RIZZO I'll make it last as long as you like.
+COMMODORE OH Clancy has discouraged him adequately, I believe.
+COMMODORE OH And if the need arises, I will take care of Picard.
+COMMODORE OH I want you to stay on mission. You made a shambles of the operation here.
+COMMODORE OH Your team destroyed the thing before it could be interrogated and nearly blew our cover. 
+COMMODORE OH We have one more opportunity. Do not squander it.
+LIEUTENANT RIZZO Of course. I've put my best man on it.
+COMMODORE OH Have you? I worry about that one.
+COMMODORE OH He too has a troubling penchant for the unexpected.
+COMMODORE OH And I have had just about my fill of surprises, Lieutenant.
+COMMODORE OH Do I make myself clear?
+LIEUTENANT RIZZO I will vouch for him with my life.
+COMMODORE OH Indeed. You will.
+COMMODORE OH Which is why I strongly recommend that you manage this case in person.
+LIEUTENANT RIZZO Of course.
+COMMODORE OH Everything is at stake.
+COMMODORE OH See that he does not fail.
+COMMODORE OH See that neither of you does.
+RAFFI You can turn around and call that cab to take you right back where you came from.
+PICARD Just want to talk.
+RAFFI There isn't anything you could say that I want to hear.
+PICARD Secret Romulan assassins are operating on Earth.
+RAFFI Is that the '86?
+RAFFI Goddamn it.
+NAREK Nice of you to knock.
+LIEUTENANT RIZZO Why start now?
+NAREK How's life in Starfleet, Lieutenant Rizzo?
+NAREK That ridiculous disguise.
+NAREK Round ears. You look like a plucked wakak.
+LIEUTENANT RIZZO Shut up. Any progress?
+NAREK Yes. Slow, but I'm still confident that my approach, which you approved, is the only sound approach.
+LIEUTENANT RIZZO I hope that confidence is not misguided.
+LIEUTENANT RIZZO If your approach doesn't start paying off very soon, I will be obliged to unapprove it.
+LIEUTENANT RIZZO For both our sakes.
+LIEUTENANT RIZZO Commodore Oh is quite distressed.
+LIEUTENANT RIZZO She has been a useful ally for a long time.
+LIEUTENANT RIZZO I can't have her turning on us.
+LIEUTENANT RIZZO When I arrive...
+NAREK When you arrive...
+NAREK I'm on top of it.
+LIEUTENANT RIZZO So it would seem.
+LIEUTENANT RIZZO Have you found the nest?
+LIEUTENANT RIZZO Has the machine given up the location of its fellow abominations?
+LIEUTENANT RIZZO Really, has it told you anything at all?
+LIEUTENANT RIZZO Grave reservations have been expressed about your approach, baby brother.
+LIEUTENANT RIZZO I don't have to tell you the stakes couldn't be higher.
+LIEUTENANT RIZZO Oh has reservations. Profound reservations.
+LIEUTENANT RIZZO There is no one whose survival matters more to me than yours. Except my own.
+LIEUTENANT RIZZO If you've made no progress by the time I get there, I will have no choice but to try my approach, unfortunate as it may have been.
+LIEUTENANT RIZZO If there is another such disaster, it will undoubtedly consume you and me, too.
+THE END 
