@@ -36,6 +36,7 @@ Future Work<br>
 Train on newer and/or larger models (GPT-3/1558M)<br>
 Add more scripts, wether branching out into more general Sci-Fi or waiting for more Star Trek. <br>
 Exlpore the scripts in more fun ways to learn more about the series. <br>
+Create chatbots for individual characters. <br> 
 
 For More Information<br>
 See the full analysis in our Jupyter Notebook or review my Presentation.<br>
