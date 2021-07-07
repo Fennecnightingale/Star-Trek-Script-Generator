@@ -28,10 +28,10 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
         # load our model 
         # gpt2.download_gpt2(model_dir='models', model_name='774M')
         # print('opening TAR')
-        with tarfile.open(f"C:/Users/fenne/Documents/flatiron/trekgenerator/trekgenerator/checkpoint_{i}.tar", 'r') as tar:
-            tar.extractall(os.path.join('models', '355M', '.checkpoint'))
+        with tarfile.open(f"C:/Users/fenne/Documents/flatiron/trekgenerator/star-trek-script-generator/tars/checkpoint_{i}.tar", 'r') as tar:
+            tar.extractall(os.path.join('models', '774M', '.checkpoint'))
         # print('opening checkpoint path')
-        checkpoint_path = os.path.join('models', '355M')
+        checkpoint_path = os.path.join('models', '774M')
         # print('setting default hparams')
         hparams = model.default_hparams()
         # print('loading default hparams')
@@ -101,7 +101,7 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
                                 prefix = prefix,
                                 nsamples = 1,
                                 include_prefix = False,
-                                model_name = '355M',
+                                model_name = '774M',
                                 batch_size = 1, 
                                 truncate='<|endoftext|>',
                                 return_as_list = True

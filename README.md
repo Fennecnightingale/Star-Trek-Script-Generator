@@ -1,4 +1,3 @@
-
 Generating Star Trek scripts with GPT-2<br>
 Author: Fennec C. Nightingale<br>
 

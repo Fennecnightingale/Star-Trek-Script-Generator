@@ -1,0 +1,4 @@
+This folder will be empty on GitHub and will not be filled just by cloning. 
+The .tar files are too large to pushed to GitHub and need to be downloaded from Drive.
+Please look in the tutorials folder for a detailed walkthrough of how to get them. 
+Thanks!
