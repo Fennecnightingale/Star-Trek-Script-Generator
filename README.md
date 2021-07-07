@@ -43,7 +43,7 @@ See the full analysis in our Jupyter Notebook or review my Presentation.<br>
 For additional info, contact me at: fenneccharles@gmail.com<br>
 
 Repository Structure<br>
-``
+```
 ├──.ipynb_checkpoints
 ├──.gitignore
 ├──data
@@ -54,4 +54,4 @@ Repository Structure<br>
     ├──
 ├──
 ├── README.ipynb
-└──
+└──.tars
