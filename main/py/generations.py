@@ -25,8 +25,6 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
                 sess = gpt2.reset_session(sess)
         except:
             sess = gpt2.start_tf_sess()
-        # load our model 
-        # gpt2.download_gpt2(model_dir='models', model_name='774M')
         # print('opening TAR')
         with tarfile.open(f"C:/Users/fenne/Documents/flatiron/trekgenerator/star-trek-script-generator/tars/checkpoint_{i}.tar", 'r') as tar:
             tar.extractall(os.path.join('models', '774M', '.checkpoint'))
