@@ -28,8 +28,12 @@ Conclusions<br>
 This analysis leads to three recommendations:<br>
 
 ONE. <br>
+Use books & other approved media to train more robust models that can make more accurate predictions.<br>
 TWO. <br>
+Standardize script formatting for easier use in future projects.<br>
 THREE. <br>
+Expirement with generating unique new feautres that may give more complete insight into fans wants.<br>
+
 
 Future Work<br>
 Train on newer and/or larger models (GPT-3/1558M)<br>
