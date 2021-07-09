@@ -195,6 +195,8 @@ Repository Structure<br>
 ├──.gitattributes
 ├──db.sqlite3
 ├──Download_Checkpoints.py
+├──Gathering_Text.ipynb
+├──Training_Models.ipynb
 ├──environment.yml
 ├──Linear_Regression.ipynb
 ├──manage.py
