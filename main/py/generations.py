@@ -26,7 +26,7 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
         except:
             sess = gpt2.start_tf_sess()
         # print('opening TAR')
-        with tarfile.open(f"C:/Users/fenne/Documents/flatiron/trekgenerator/star-trek-script-generator/tars/checkpoint_{i}.tar", 'r') as tar:
+        with tarfile.open(f"../..tars/checkpoint_{i}.tar", 'r') as tar:
             tar.extractall(os.path.join('models', '774M', '.checkpoint'))
         # print('opening checkpoint path')
         checkpoint_path = os.path.join('models', '774M')
