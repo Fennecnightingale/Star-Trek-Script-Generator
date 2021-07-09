@@ -1,3 +1,5 @@
+models/
+tars/
 main/py/models
 main/py/checkpoint
 .vscode
