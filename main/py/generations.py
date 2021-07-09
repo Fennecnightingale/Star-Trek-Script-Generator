@@ -14,9 +14,14 @@ from gpt_2_simple.src import model
 
 
 def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
+    '''
+    Given Characters in locations, series, and length you wish to 
+    generate, this function will use GPT-2 to generate a single piece
+    of text and return it as a string to be used in any application you need. 
+    '''
     start = datetime.now()
     # print('downloading model')
-    # gpt2.download_gpt2(model_dir='models', model_name='774M')
+    # gpt2.download_gpt2(model_dir='models', model_name='1558M')
     # start temporary list to hold our output text
     templist = []
     # generate text for each act 
@@ -35,9 +40,9 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
         p = str(Path(__file__).parents[2]).replace('\\', '/')
         print('opening TAR')
         with tarfile.open(f"{p}/tars/checkpoint_{i}.tar", 'r') as tar:
-            tar.extractall(os.path.join('models', '774M', '.checkpoint'))
+            tar.extractall(os.path.join('models', '1558M', '.checkpoint'))
         print('opening checkpoint path')
-        checkpoint_path = os.path.join('models', '774M')
+        checkpoint_path = os.path.join('models', '1558M')
         print('setting default hparams')
         hparams = model.default_hparams()
         print('loading default hparams')
@@ -58,14 +63,14 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
         print('determining scene length')
         # determine how much we need to generate 
         if LENGTH == 'SCENE':
-            length = 100
+            length = 200
             rng = 1
         elif LENGTH == 'SHORT':
-            length = 200
-            rng = 2
-        else:
             length = 400
-            rng = 4
+            rng = 1
+        else:
+            length = 500
+            rng = 3
         print('start generating')
         # start generating            
         for j in range(rng):
@@ -93,53 +98,52 @@ def generate(a_chars_in_location, b_chars_in_location, SERIES, LENGTH):
             txt += gpt2.generate(sess,
                                 run_name = i,
                                 length = final_len,
-                                temperature = 1.5,
-                                top_k = 40, 
-                                top_p= .95,
+                                temperature = .80,
+                                top_k = 100, 
+                                top_p= .80,
                                 prefix = prefix,
                                 nsamples = 1,
                                 include_prefix = False,
-                                model_name = '774M',
+                                model_name = '1558M',
                                 batch_size = 1, 
                                 truncate='<|endoftext|>',
                                 return_as_list = True
                                 )[0]
             print(f'this is the text {txt}')
-            txt = txt.replace('<br>', '').replace('<b>', '').replace('--', '-')
-            txt = txt.replace('</b>', '').replace('*', '').replace('(x2)', '')
-            txt = txt.replace('>', '').replace('<', '').replace('.', '.\n')
-            txt = txt.replace('!', '!\n').replace('?', '?\n').replace('  ', ' ')
-            txt = txt.replace(' ,', ',')
-            txt = txt.replace('/n', ' /n ').replace('  ', ' ')
+            txt = txt.replace(prefix, '')
+            txt = txt.replace('<br>', '').replace('<b>', '')
+            txt = txt.replace('--', '-').replace('(x2)', '')
+            txt = txt.replace('</b>', '').replace('*', '')
+            txt = txt.replace('.', '.\n').replace('  ', ' ')
+            txt = txt.replace('>', '').replace('<', '')
+            txt = txt.replace('!', '!\n').replace('?', '?\n')
+            txt = txt.replace(' ,', ',').replace('/n', ' /n ')
             for word in txt.split(' '):
-                # print(word)
                 if ':' in word and word != 'TREK:':
-                    last_word = txt.split()[txt.split().index(word)-1]
-                    if last_word.isupper():
-                        txt = txt.replace(f'{last_word} {word}', f'\n{last_word} {word}')
-                    else:
-                        txt = txt.replace(word, f'\n{word}')
-            for l in txt.split('\n'):
-                if len(templist) > 0:
-                    len_ = len(set(re.sub(r'[^\w\s]', '', l).strip().split(' ')))
-                    new_ = len(set(re.sub(r'[^\w\s]', '', l + templist[-1]).strip().split(' ')))
-                else:
-                    len_ = 0
-                    new_ = 10
-                if l not in templist and 'written by' not in l.lower() and new_-len_ >= 2:
-                    templist.append(l)
+                    if word in txt.replace('\n', ' ').split(' '):
+                        last_word = txt.split()[txt.split().index(word)-1]
+                        if last_word.isupper():
+                            txt = txt.replace(f'{last_word} {word}', 
+                                              f'\n {last_word} {word}')
+                        else:
+                            txt = txt.replace(word, f'\n {word}')
+            templist.append(txt)
     text = '\n'.join(templist).replace('\n', '<br>')
     for i in range(3):
         text = text.replace('<br><br>', '<br>')
-    text = text[:text.rfind('<br>')]
+    text = text[:text.rfind('.')]
     text += '<br><br><br><br>'
     # return the string 
-    # print('return text')
+    print('return text')
     end = datetime.now()
     print(end-start)
     return text 
 
 def inputs(char_input, loc_input, setting, names, locs):
+    """
+    Recieves inputs from user, splits characters and locations up
+    and translates them into a prefix to start our text with. 
+    """
     # either get or sample characters to feature 
     if char_input:
         inp = char_input.upper().split(',')
@@ -159,8 +163,12 @@ def inputs(char_input, loc_input, setting, names, locs):
         locations = random.sample(locs, k=4)
     a_chars_in_location, b_chars_in_location = [], []
     for k in range(2):
-        a_chars_in_location.append(f'{", ".join(a_chars[:-1])} and {a_chars[-1]} are in the {locations[random.randint(0, len(locations)-1)]}.<br>')
-        b_chars_in_location.append(f'{", ".join(b_chars[:-1])} and {b_chars[-1]} are in the {locations[random.randint(0, len(locations)-1)]}.<br>')
+        a_chars_in_location.append(f'{", ".join(a_chars[:-1])}' +
+                                   f'and {a_chars[-1]} are in the' +
+                                   f'{locations[random.randint(0, len(locations)-1)]}.<br>')
+        b_chars_in_location.append(f'{", ".join(b_chars[:-1])}' + 
+                                   f'and {b_chars[-1]} are in the' + 
+                                   f'{locations[random.randint(0, len(locations)-1)]}.<br>')
     if setting:
         setting = f'{setting}.<br>'
     a_chars_in_location[0] += setting
